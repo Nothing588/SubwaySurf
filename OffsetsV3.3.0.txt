@@ -1,0 +1,23 @@
+offsets (v3.3.0)
+7 Lane:
+Offset: 1B20208
+Patch: 00008052C0035FD6
+=============================
+GodMode V1:
+Offset: 1B22EF0
+Offset: 1B234C4
+Offset: 1B2026C
+
+Patch for these 3 offsets: 00008052C0035FD6
+=============================
+No Roll Dirt:
+Offset: 1B13410
+Patch: 00008052C0035FD6
+
+Invisible Hoverboard V2:
+Offset: 1B1A04C
+Patch: 00008052C0035FD6
+============================
+No Coin Pickup:
+Offset: 19400AC
+Patch: 00008052C0035FD6
